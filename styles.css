@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+  background-image: linear-gradient(
+    to top,
+    #f3e7e9 0%,
+    #e3eeff 99%,
+    #e3eeff 100%
+  );
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  font-size: 36px;
+  line-height: 48px;
+  font-family: "Comfortaa", cursive;
+  font-family: "Gruppo", cursive;
+  color: #e05297;
+}
+
+.yt {
+  color: red;
+  display: inline;
+}
+
+.google {
+  color: blue;
+  font-size: 30px;
+  display: inline;
+}
+
+.insta {
+  color: violet;
+  font-size: 60px;
+  display: inline;
+}
